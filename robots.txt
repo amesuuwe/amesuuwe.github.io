@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://amesuuwe.github.io/hIb/sitemap_index.txt
+Sitemap: https://amesuuwe.github.io/jUl/sitemap_index.txt
+Sitemap: https://amesuuwe.github.io/mOF/sitemap_index.txt
+Sitemap: https://amesuuwe.github.io/riV/sitemap_index.txt
